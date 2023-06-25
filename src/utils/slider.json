@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Aso Garden Estate",
+    "price": "120,000,000",
+    "detail": "Plot 390, Agulu Street Dawaki, Federal Capital Territory, ABuja, Nigeria",
+    "image": "/6-Bedroom-duplex-Maitama-Abuja.jpg"
+  },
+  {
+    "name": "Golf Estate",
+    "price": "40,000,000",
+    "detail": "Golf Estate, Phase 2/ off peter odili Road Porth Harcourt, Rivers State",
+    "image": "/golf 4.jpg"
+  },
+  {
+    "name": "Grand View Estate, Jabi",
+    "price": "78,000,00",
+    "detail": "3C6H+V69, Abubakar Usman, Utako 900108, Abuja, Federal Capital Territory",
+    "image": "/revolutionproperty.jpeg"
+  },
+  {
+    "name": "Stalion Court Estate",
+    "price": "92,000,00",
+    "detail": "17 Gana St, Maitama 904101, Abuja, Federal Capital Territory",
+    "image": "/maintama.jpg"
+  },
+  {
+    "name": "SpringVille Estate",
+    "price": "66,000,000",
+    "detail": "CFRV+2GM, Lekki Penninsula II 106104, Lekki, Lagos",
+    "image": "/elegushi lekki.jpg"
+  },
+  {
+    "name": "Spring Garden Estate",
+    "price": "63,000,000",
+    "detail": " CGJV+X2C, Orchid Rd, Lekki Penninsula II 106104, Lagos",
+    "image": "/spring garden.jpg"
+  }
+]
